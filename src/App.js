@@ -1,11 +1,11 @@
-import TarjetaPost from './TarjetaPost';
+import TarjetaNoticia from './TarjetaNoticia';
 import './App.css';
 
 function App() {
   return (
     <>
-      <h1>Hola desde App! 👋📲</h1>
-      <TarjetaPost />
+      <h1>Noticia de última hora! 👋📲</h1>
+      <TarjetaNoticia />
     </>
   );
 }
