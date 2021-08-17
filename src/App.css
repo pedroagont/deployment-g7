@@ -5,8 +5,15 @@ body {
   justify-content: center;
 }
 
+h1 {
+  text-align: center;
+  color: royalblue;
+  text-shadow: 1px 1px 1px black;
+}
+
 .tarjeta-post {
-  border: 2px solid tomato;
+  background: beige;
+  border: 2px solid goldenrod;
   border-radius: 20px;
   padding: 1em;
   width: 80vw;
@@ -32,10 +39,10 @@ body {
   font-weight: bold;
   font-size: 1.5em;
   padding: 0.5em 1em;
-  border: 2px solid tomato;
+  border: 2px solid goldenrod;
   border-radius: 20px;
   padding: 0.7em 1em;
-  background-color: pink;
+  background-color: gold;
   box-shadow: 1px 1px 1px black;
 }
 
